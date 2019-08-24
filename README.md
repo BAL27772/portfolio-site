@@ -19,7 +19,7 @@ A good developer portfolio site should include the follow:
 
 **index.html** - The structure of the site
 
-**reumse.pdf** - An example resume used in the site
+**resume.pdf** - An example resume used in the site
 
 ## Exercise Submission
 You should deploy this site to the internet. We will cover how to do this in Module 13.
